@@ -1,6 +1,6 @@
 ## Welcome to Nox 3D Models
 
-You can use the [editor on GitHub](https://github.com/Drth-Nox/Drth-Nox.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Here i will post what avatars used what assest. If you want to see what i have for sale you can join my [discord server](https://discord.gg/p3RKKSa) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
