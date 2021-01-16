@@ -8,6 +8,16 @@ Here i will post what avatars used what assest. If you want to see what i have f
 
 [**Belle**](https://gum.co/BelleVR)
 ```
+PLACE TEXT HERE
+```
+
+![Image](https://github.com/Drth-Nox/Drth-Nox.github.io/blob/main/Thumbnai2l.png)
+
+[**Nikki**](https://gum.co/NikkiVR)
+```
+PLACE TEXT HERE
+```
+
 
 
 
