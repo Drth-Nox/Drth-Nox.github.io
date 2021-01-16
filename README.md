@@ -6,7 +6,8 @@ Here i will post what avatars used what assest. If you want to see what i have f
 ## Current model's for sale
 ![Image](https://github.com/Drth-Nox/Drth-Nox.github.io/blob/main/unknown.png)
 
-##[Belle](https://gum.co/BelleVR)
+[**Belle**](https://gum.co/BelleVR)
+```
 
 
 
